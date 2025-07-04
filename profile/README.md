@@ -13,7 +13,7 @@ RunSurge is a decentralized, peer-powered system that enables Python code to run
 - [🧱 System Architecture](#system-architecture)
 - [🔧 Modules](#modules)
 - [🎬 Demo](#demo)
-- [⚙️ How It Works](#how-it-works)
+- [⚙️ How It Works](#%EF%B8%8F-how-it-works)
 - [👥 Contributors](#contributors)
 - [📜 License](#license)
 
