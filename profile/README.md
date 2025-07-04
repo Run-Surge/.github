@@ -74,7 +74,7 @@ https://drive.google.com/file/d/1pGlt4yIj4JC62GGIIM-A167wn34LlwDy/view?usp=shari
 
 ---
 
-## ⚙️ How It Works 
+## ⚙️ How It Works
 
 1. 📝 User submits Python script.
 2. 🔐 Script is Checked for Vulnerabilities.
