@@ -2,7 +2,7 @@
 
 > 🌐 *Distributed Peer-to-Peer Python Execution Framework*
 
-RunSurge is a decentralized, peer-powered system that enables Python code to run across idle devices. It bridges the gap between users with high computational demands and contributors with spare resources — much like how Uber connects riders and car owners.
+RunSurge is a decentralized, peer-powered system that enables Python code to run across idle devices. It bridges the gap between users with  computational demands and contributors with spare resources — much like how Uber connects riders and car owners.
 
 ---
 
