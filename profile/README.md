@@ -68,8 +68,7 @@ Performs static AST and DDG-based analysis to extract code blocks that can be sa
 ---
 
 ## 🎬 Demo <a name="demo"></a>
-https://drive.google.com/file/d/1pGlt4yIj4JC62GGIIM-A167wn34LlwDy/view?usp=sharing
-
+https://drive.google.com/file/d/1iYiBnRJJvWcJBW764Wwl2tcLxhKIPM8J/view?usp=drive_link
 ---
 
 ---
