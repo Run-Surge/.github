@@ -31,7 +31,7 @@ Inspired by the **collaborative economy**, RunSurge adopts the model of companie
 
 - ⚙️ **Peer-to-Peer Architecture** — Worker nodes sync, share, and coordinate without central dependence.
 - 🧠 **Static Code Analysis** — Transforms user code into safe parallel blocks using DDG + heuristics.
-- 🧰 **Automatic + Manual Execution Modes** — Both beginners and power users supported.
+- 🧰 **Automatic + Manual Execution Modes** — Both automatic and manual parallelization supported.
 - 🔐 **Code Security with Semgrep** — Filters unsafe shell, network, or file operations.
 - 🔄 **Modular System Design** — Extendable to GPU, new scheduling rules, or third-party APIs.
 - 📈 **Built-in Scheduler** — Optimizes task distribution based on estimated cost and memory.
